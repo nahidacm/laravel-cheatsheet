@@ -1,4 +1,4 @@
-# laravel-cheatsheet
+# Laravel Cheatsheet
 
 #### Making a CRUD
 1. Make classes `php artisan make:model <ModelName> -a`.
